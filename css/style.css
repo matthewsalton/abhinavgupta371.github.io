@@ -31,6 +31,7 @@ a {
 
 h1 {
   color: #f7f7f7;
+  font-size: 32px;
   font-family: "Source Sans Pro", Arial, sans-serif;
   margin: 5 0 30px 0;
   margin-bottom: 30px;
@@ -105,7 +106,7 @@ figure {
 }
 
 .social li a:hover {
-  color: #119ae9;
+  color: #FF00FF;
 }
 
 .social li a:hover, .social li a:active, .social li a:focus {
