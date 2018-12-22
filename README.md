@@ -1,9 +1,7 @@
 # abhinavgupta371.github.io
 ---
 ### Credits
-- [@ryan-andri](https://github.com/ryan-andri)
-
-- [@moepoi](https://github.com/moepoi)
+- https://daneden.github.io/animate.css/
 
 - https://vincentgarreau.com/particles.js
 
